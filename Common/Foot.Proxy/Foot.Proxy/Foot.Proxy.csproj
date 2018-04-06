@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\WebApi\Kebue.Core.Util\Kebue.Core.Util.csproj" />
+    <ProjectReference Include="..\..\Foot.EntityLayers\Foot.EntityLayers\Foot.EntityLayers.csproj" />
+    <ProjectReference Include="..\..\Kebue.RESTful\Kebue.RESTful.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.JScript">
+      <HintPath>C:\Windows\Microsoft.NET\Framework\v2.0.50727\Microsoft.JScript.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.deps.json
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.dll
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.pdb
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.AssemblyInfoInputs.cache
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.AssemblyInfo.cs
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.dll
+E:\Foot\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.deps.json
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\bin\Debug\netstandard2.0\Foot.EntityLayers.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.AssemblyInfoInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.AssemblyInfo.cs
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Foot.EntityLayers\Foot.EntityLayers\obj\Debug\netstandard2.0\Foot.EntityLayers.csprojResolveAssemblyReference.cache

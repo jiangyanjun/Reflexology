@@ -1,0 +1,21 @@
+
+SPAN.fprev { WIDTH: 18px; BACKGROUND: url(../../images/xgcalendar/resultset_previous.png) no-repeat 1px bottom; }
+SPAN.fnext { WIDTH: 18px; BACKGROUND: url(../../images/xgcalendar/resultset_next.png) no-repeat 1px bottom; }
+
+
+
+DIV.ctoolbar { background-color: #D6E3F3; width: 100%; white-space: nowrap; background: url(../images/Toolbar/bg.gif) repeat-x; /*position: relative;*//*height:27px;*/ }
+DIV.ctoolbar DIV.btnseparator { BORDER-LEFT: #ccc 1px solid; MARGIN:4px; FLOAT: left; HEIGHT: 18px; BORDER-RIGHT: #fff 1px solid; }
+    DIV.ctoolbar DIV.fbutton { PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: left; HEIGHT: 22px; MARGIN-LEFT: 1px; margin-top:3px; CURSOR: pointer; PADDING-TOP: 1px; }
+        DIV.ctoolbar DIV.fbutton DIV { PADDING-BOTTOM: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: left; PADDING-TOP: 2px; }
+        DIV.ctoolbar DIV.fbutton SPAN { DISPLAY: block; FLOAT: left; HEIGHT: 18px; }
+    DIV.ctoolbar DIV.fcurrent.fbutton { BORDER-BOTTOM: #555 1px solid; BORDER-LEFT: #555 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #edf1d5; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #555 1px solid; CURSOR: pointer; BORDER-RIGHT: #555 1px solid; PADDING-TOP: 0px; }
+        DIV.ctoolbar DIV.fcurrent.fbutton DIV { BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #eee 1px solid; PADDING-TOP: 1px; }
+    DIV.ctoolbar DIV.fbutton:hover { BORDER-BOTTOM: #466094 1px solid; BORDER-LEFT: #466094 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #edf1d5; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #466094 1px solid; CURSOR: pointer; BORDER-RIGHT: #466094 1px solid; PADDING-TOP: 0px; }
+.ctoolbar.div DIV.fbOver.fbutton { BORDER-BOTTOM: #466094 1px solid; BORDER-LEFT: #466094 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #edf1d5; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #466094 1px solid; CURSOR: pointer; BORDER-RIGHT: #466094 1px solid; PADDING-TOP: 0px; }
+DIV.ctoolbar DIV.fbutton:hover DIV { BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #eee 1px solid; PADDING-TOP: 1px; }
+.ctoolbar.div DIV.fbOver.fbutton DIV { BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #eee 1px solid; PADDING-TOP: 1px; }
+DIV.clear { CLEAR: both; }
+DIV.ctoolbar DIV.fshowdatep { PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; FLOAT: left; HEIGHT: 22px; CURSOR: default; PADDING-TOP: 1px; }
+    DIV.ctoolbar DIV.fshowdatep DIV { PADDING-BOTTOM: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: left; PADDING-TOP: 4px; }
+    DIV.ctoolbar DIV.fshowdatep SPAN { DISPLAY: block; FLOAT: left; }

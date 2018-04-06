@@ -1,0 +1,9 @@
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\bin\Release\netstandard2.0\Kebue.RESTful.deps.json
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\bin\Release\netstandard2.0\Kebue.RESTful.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\bin\Release\netstandard2.0\Kebue.RESTful.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.AssemblyInfoInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.AssemblyInfo.cs
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Release\netstandard2.0\Kebue.RESTful.pdb

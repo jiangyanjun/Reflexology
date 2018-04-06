@@ -1,0 +1,9 @@
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\bin\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.deps.json
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\bin\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\bin\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.AssemblyInfoInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.AssemblyInfo.cs
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\Kebue.Core.API.CommLayer\obj\Debug\netcoreapp2.0\Kebue.Core.API.CommLayer.pdb

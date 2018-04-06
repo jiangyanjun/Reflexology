@@ -1,0 +1,15 @@
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Foot.WebApi.DataLayers.deps.json
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Foot.WebApi.DataLayers.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Foot.WebApi.DataLayers.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Foot.WebApi.EntityLayers.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Kebue.Core.Database.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Kebue.Core.Util.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Foot.WebApi.EntityLayers.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Kebue.Core.Database.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\bin\Release\netstandard2.0\Kebue.Core.Util.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.AssemblyInfoInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.AssemblyInfo.cs
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\WebApi\DataLayer\obj\Release\netstandard2.0\Foot.WebApi.DataLayers.pdb

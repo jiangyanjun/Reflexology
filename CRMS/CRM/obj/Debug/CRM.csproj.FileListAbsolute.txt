@@ -1,0 +1,146 @@
+F:\VS 2010\XHDcrm\CRM\bin\CRM.dll
+F:\VS 2010\XHDcrm\CRM\bin\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.dll
+F:\VS 2010\XHDcrm\CRM\obj\Debug\CRM.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.dll
+F:\VS 2010\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\CRM\bin\OpenSmtp.dll
+F:\VS 2010\XHDcrm\CRM\bin\Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\COM.Excel.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+F:\VS 2010\XHDcrm\CRM\bin\IBatisNet.Common.dll
+F:\VS 2010\XHDcrm\CRM\bin\MySql.Data.dll
+F:\VS 2010\XHDcrm\CRM\bin\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Common.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DAL.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.Model.pdb
+F:\VS 2010\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\CRM.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\CRM.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.BLL.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Common.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DAL.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Model.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\OpenSmtp.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Excel.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\COM.Excel.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DBUtility.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\office.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Microsoft.Vbe.Interop.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\IBatisNet.Common.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\MySql.Data.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.BLL.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Common.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DAL.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Model.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\CRM.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\CRM.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.BLL.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Common.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DAL.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Model.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\OpenSmtp.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Excel.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\COM.Excel.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DBUtility.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\office.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\Microsoft.Vbe.Interop.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\IBatisNet.DataMapper.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\IBatisNet.Common.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\MySql.Data.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.BLL.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Common.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DAL.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.Model.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\bin\XHD.DBUtility.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\CRM\obj\Debug\CRM.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\CRM.dll.config
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\CRM.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\CRM.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.BLL.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.Common.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.DAL.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.Model.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\OpenSmtp.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\Excel.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\COM.Excel.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.DBUtility.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\office.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\Microsoft.Vbe.Interop.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\IBatisNet.DataMapper.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\IBatisNet.Common.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\MySql.Data.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\stdole.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.BLL.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.Common.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.DAL.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.Model.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\bin\XHD.DBUtility.pdb
+E:\迅雷下载\新建文件夹 (4)\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\迅雷下载\新建文件夹 (4)\CRM\obj\Debug\CRM.dll
+E:\迅雷下载\新建文件夹 (4)\CRM\obj\Debug\CRM.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\CRM.dll.config
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\CRM.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\CRM.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.BLL.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.Common.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.DAL.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.Model.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\OpenSmtp.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\Excel.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\COM.Excel.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.DBUtility.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\office.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\Microsoft.Vbe.Interop.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\IBatisNet.DataMapper.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\IBatisNet.Common.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\MySql.Data.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\stdole.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.Common.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.DAL.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.Model.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\bin\XHD.DBUtility.pdb
+E:\Foot\Foot.WebApi\CRMS\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\CRMS\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\CRMS\CRM\obj\Debug\CRM.dll
+E:\Foot\Foot.WebApi\CRMS\CRM\obj\Debug\CRM.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\CRM.dll.config
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\CRM.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\CRM.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.BLL.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.Common.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.DAL.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.Model.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\OpenSmtp.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\Excel.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\COM.Excel.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\Newtonsoft.Json.Net35.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.DBUtility.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\IBatisNet.DataMapper.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\IBatisNet.Common.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\MySql.Data.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.Common.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.DAL.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\bin\XHD.Model.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\obj\Debug\CRM.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\CRM\obj\Debug\CRM.pdb

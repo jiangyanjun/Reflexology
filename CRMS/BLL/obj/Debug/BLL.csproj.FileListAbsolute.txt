@@ -1,0 +1,172 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.BLL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\OpenSmtp.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\COM.Excel.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\IBatisNet.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\bin\Debug\XHD.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\XHD.BLL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\XHD\BLL\obj\Debug\XHD.BLL.pdb
+F:\VS 2010\XHD\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.BLL.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.BLL.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DAL.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHD\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHD\BLL\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHD\BLL\bin\Debug\Excel.dll
+F:\VS 2010\XHD\BLL\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DBUtility.dll
+F:\VS 2010\XHD\BLL\bin\Debug\IBatisNet.DataMapper.dll
+F:\VS 2010\XHD\BLL\bin\Debug\IBatisNet.Common.dll
+F:\VS 2010\XHD\BLL\bin\Debug\System.Data.SQLite.dll
+F:\VS 2010\XHD\BLL\bin\Debug\MySql.Data.dll
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DAL.pdb
+F:\VS 2010\XHD\BLL\bin\Debug\XHD.DBUtility.pdb
+F:\VS 2010\XHD\BLL\obj\Debug\XHD.BLL.dll
+F:\VS 2010\XHD\BLL\obj\Debug\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\Excel.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+F:\VS 2010\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+F:\VS 2010\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS 2010\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+F:\VS 2010\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Excel.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\office.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+C:\Users\Evan\Desktop\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.BLL.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.BLL.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Common.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DAL.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Model.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\OpenSmtp.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Excel.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\COM.Excel.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DBUtility.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\office.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\IBatisNet.DataMapper.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\IBatisNet.Common.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\MySql.Data.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Common.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.Model.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DAL.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\bin\Debug\XHD.DBUtility.pdb
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\XHD.BLL.dll
+E:\代码审核\6.10\第一个\小黄豆开源免费CRM源码及简介\小黄豆CRM\小黄豆CRM v1.0.0.5\XHDcrm\BLL\obj\Debug\XHD.BLL.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.BLL.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.BLL.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.Common.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.DAL.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.Model.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\OpenSmtp.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\Excel.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\COM.Excel.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.DBUtility.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\office.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\IBatisNet.DataMapper.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\IBatisNet.Common.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\MySql.Data.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\stdole.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.Common.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.Model.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.DAL.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\bin\Debug\XHD.DBUtility.pdb
+E:\迅雷下载\新建文件夹 (4)\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\迅雷下载\新建文件夹 (4)\BLL\obj\Debug\XHD.BLL.dll
+E:\迅雷下载\新建文件夹 (4)\BLL\obj\Debug\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.BLL.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.Common.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.DAL.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.Model.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\OpenSmtp.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\Excel.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\COM.Excel.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.DBUtility.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\office.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\IBatisNet.DataMapper.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\IBatisNet.Common.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\MySql.Data.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\stdole.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.Common.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.Model.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.DAL.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\bin\Debug\XHD.DBUtility.pdb
+E:\Foot\Foot.WebApi\CRMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\CRMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\CRMS\BLL\obj\Debug\XHD.BLL.dll
+E:\Foot\Foot.WebApi\CRMS\BLL\obj\Debug\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.BLL.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.BLL.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.Common.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.DAL.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.Model.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\OpenSmtp.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\Excel.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\COM.Excel.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.DBUtility.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\IBatisNet.DataMapper.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\IBatisNet.Common.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\MySql.Data.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.Common.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.Model.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\bin\Debug\XHD.DAL.pdb
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\obj\Debug\XHD.BLL.dll
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\CRMS\BLL\obj\Debug\XHD.BLL.pdb

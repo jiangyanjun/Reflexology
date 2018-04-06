@@ -1,0 +1,4 @@
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Debug\netstandard1.5\Kebue.RESTful.csprojResolveAssemblyReference.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Debug\netstandard1.5\Kebue.RESTful.csproj.CoreCompileInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Debug\netstandard1.5\Kebue.RESTful.AssemblyInfoInputs.cache
+E:\Foot\Foot.WebApi\ZuLiaoXiangMu\Common\Kebue.RESTful\obj\Debug\netstandard1.5\Kebue.RESTful.AssemblyInfo.cs

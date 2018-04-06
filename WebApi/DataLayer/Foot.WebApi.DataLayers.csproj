@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Foot.EntityLayers\Foot.EntityLayers\Foot.EntityLayers.csproj" />
+    <ProjectReference Include="..\Kebue.Core.Database\Kebue.Core.Database.csproj" />
+  </ItemGroup>
+
+</Project>

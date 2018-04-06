@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8A8E055E-A0DB-4C7C-840D-3A767B1735B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Foot.Client</RootNamespace>
+    <AssemblyName>Foot.Client</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Base\kebue.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IBatisNet.Common">
+      <HintPath>..\..\CRMS\DBUtility\bin\Debug\IBatisNet.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\ComboBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Base\CrazyCoderPinyin.cs" />
+    <Compile Include="Base\LoadingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\LoadingFrm.Designer.cs">
+      <DependentUpon>LoadingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\MyOpaqueLayer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Base\OpaqueCommand.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductList.Designer.cs">
+      <DependentUpon>FormProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductPackage.Designer.cs">
+      <DependentUpon>FormProductPackage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductPackageEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductPackageEdit.Designer.cs">
+      <DependentUpon>FormProductPackageEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BZ.Designer.cs">
+      <DependentUpon>Frm_BZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_BFFH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_BFFH.Designer.cs">
+      <DependentUpon>Frm_BFFH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_member.Designer.cs">
+      <DependentUpon>Frm_member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_memberInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_memberInfo.Designer.cs">
+      <DependentUpon>Frm_memberInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_memberXF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_memberXF.Designer.cs">
+      <DependentUpon>Frm_memberXF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SDXT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SDXT.Designer.cs">
+      <DependentUpon>Frm_SDXT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_XGCG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_XGCG.Designer.cs">
+      <DependentUpon>Frm_XGCG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_GYCLGLXT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_GYCLGLXT.Designer.cs">
+      <DependentUpon>Frm_GYCLGLXT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Waitertype.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_Waitertype.Designer.cs">
+      <DependentUpon>Frm_Waitertype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Hytype.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_Hytype.Designer.cs">
+      <DependentUpon>Frm_Hytype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cktype.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_Cktype.Designer.cs">
+      <DependentUpon>Frm_Cktype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Zttype.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_Zttype.Designer.cs">
+      <DependentUpon>Frm_Zttype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_YHtype.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_YHtype.Designer.cs">
+      <DependentUpon>Frm_YHtype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DBConnection.cs" />
+    <Compile Include="Frm_Power.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Power.Designer.cs">
+      <DependentUpon>Frm_Power.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Pwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Pwd.Designer.cs">
+      <DependentUpon>Frm_Pwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QTXS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QTXS.Designer.cs">
+      <DependentUpon>Frm_QTXS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QTxsJZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QTxsJZ.Designer.cs">
+      <DependentUpon>Frm_QTxsJZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_stockCX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_stockCX.Designer.cs">
+      <DependentUpon>Frm_stockCX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductEdit.Designer.cs">
+      <DependentUpon>FrmProductEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_User.Designer.cs">
+      <DependentUpon>Frm_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_WaiterXG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_WaiterXG.Designer.cs">
+      <DependentUpon>Frm_WaiterXG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_JZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_JZ.Designer.cs">
+      <DependentUpon>Frm_JZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_taking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_taking.Designer.cs">
+      <DependentUpon>Frm_taking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Yuding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Yuding.Designer.cs">
+      <DependentUpon>Frm_Yuding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_YudingXG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_YudingXG.Designer.cs">
+      <DependentUpon>Frm_YudingXG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_XTSZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_XTSZ.Designer.cs">
+      <DependentUpon>Frm_XTSZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_stockCG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_stockCG.Designer.cs">
+      <DependentUpon>Frm_stockCG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrder.Designer.cs">
+      <DependentUpon>FrmOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_XF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_XF.Designer.cs">
+      <DependentUpon>Frm_XF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_desk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_desk.Designer.cs">
+      <DependentUpon>Frm_desk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductMaster.Designer.cs">
+      <DependentUpon>FrmProductMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_memberXG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_memberXG.Designer.cs">
+      <DependentUpon>Frm_memberXG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_login.Designer.cs">
+      <DependentUpon>Frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Waiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Waiter.Designer.cs">
+      <DependentUpon>Frm_Waiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_stockDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_stockDH.Designer.cs">
+      <DependentUpon>Frm_stockDH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\Msg.cs" />
+    <Compile Include="Base\MyMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Base\LoadingFrm.resx">
+      <DependentUpon>LoadingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductList.resx">
+      <DependentUpon>FormProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductPackage.resx">
+      <DependentUpon>FormProductPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductPackageEdit.resx">
+      <DependentUpon>FormProductPackageEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BZ.resx">
+      <DependentUpon>Frm_BZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_BFFH.resx">
+      <DependentUpon>Frm_BFFH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_member.resx">
+      <DependentUpon>Frm_member.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_memberInfo.resx">
+      <DependentUpon>Frm_memberInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_memberXF.resx">
+      <DependentUpon>Frm_memberXF.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SDXT.resx">
+      <DependentUpon>Frm_SDXT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_XGCG.resx">
+      <DependentUpon>Frm_XGCG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_GYCLGLXT.resx">
+      <DependentUpon>Frm_GYCLGLXT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Waitertype.resx">
+      <DependentUpon>Frm_Waitertype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Hytype.resx">
+      <DependentUpon>Frm_Hytype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cktype.resx">
+      <DependentUpon>Frm_Cktype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Zttype.resx">
+      <DependentUpon>Frm_Zttype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_YHtype.resx">
+      <DependentUpon>Frm_YHtype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_JZ.resx">
+      <DependentUpon>Frm_JZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Power.resx">
+      <DependentUpon>Frm_Power.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Pwd.resx">
+      <DependentUpon>Frm_Pwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QTXS.resx">
+      <DependentUpon>Frm_QTXS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QTxsJZ.resx">
+      <DependentUpon>Frm_QTxsJZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_taking.resx">
+      <DependentUpon>Frm_taking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_User.resx">
+      <DependentUpon>Frm_User.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_WaiterXG.resx">
+      <DependentUpon>Frm_WaiterXG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductEdit.resx">
+      <DependentUpon>FrmProductEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_desk.resx">
+      <DependentUpon>Frm_desk.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductMaster.resx">
+      <DependentUpon>FrmProductMaster.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_memberXG.resx">
+      <DependentUpon>Frm_memberXG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_login.resx">
+      <DependentUpon>Frm_login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrder.resx">
+      <DependentUpon>FrmOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_stockCG.resx">
+      <DependentUpon>Frm_stockCG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_stockCX.resx">
+      <DependentUpon>Frm_stockCX.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Waiter.resx">
+      <DependentUpon>Frm_Waiter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_XF.resx">
+      <DependentUpon>Frm_XF.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_XTSZ.resx">
+      <DependentUpon>Frm_XTSZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Yuding.resx">
+      <DependentUpon>Frm_Yuding.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_YudingXG.resx">
+      <DependentUpon>Frm_YudingXG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_stockDH.resx">
+      <DependentUpon>Frm_stockDH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="MP10.ssk">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="MSN.ssk">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Vista2_color7.ssk">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\bg.jpg" />
+    <Content Include="Image\face-crying.ico" />
+    <Content Include="Image\Icon\不可使用128.png" />
+    <Content Include="Image\Icon\不可使用16.png" />
+    <Content Include="Image\Icon\不可使用32.png" />
+    <Content Include="Image\Icon\不可使用48.png" />
+    <Content Include="Image\Icon\不可使用64.png" />
+    <Content Include="Image\Icon\使用中128.png" />
+    <Content Include="Image\Icon\使用中16.png" />
+    <Content Include="Image\Icon\使用中32.png" />
+    <Content Include="Image\Icon\使用中48.png" />
+    <Content Include="Image\Icon\使用中64.png" />
+    <Content Include="Image\Icon\可使用128.png" />
+    <Content Include="Image\Icon\可使用16.png" />
+    <Content Include="Image\Icon\可使用32.png" />
+    <Content Include="Image\Icon\可使用48.png" />
+    <Content Include="Image\Icon\可使用64.png" />
+    <Content Include="Image\Icon\打扫128.png" />
+    <Content Include="Image\Icon\打扫16.png" />
+    <Content Include="Image\Icon\打扫32.png" />
+    <Content Include="Image\Icon\打扫48.png" />
+    <Content Include="Image\Icon\打扫64.png" />
+    <Content Include="Image\Icon\未知128.png" />
+    <Content Include="Image\Icon\未知16.png" />
+    <Content Include="Image\Icon\未知32.png" />
+    <Content Include="Image\Icon\未知48.png" />
+    <Content Include="Image\Icon\未知64.png" />
+    <Content Include="Image\Icon\足疗128.ico" />
+    <Content Include="Image\Icon\足疗16.ico" />
+    <Content Include="Image\Icon\足疗32.ico" />
+    <Content Include="Image\Icon\足疗48.ico.ico" />
+    <Content Include="Image\Icon\足疗64.ico" />
+    <Content Include="Image\Icon\预定128.png" />
+    <Content Include="Image\Icon\预定16.png" />
+    <Content Include="Image\Icon\预定32.png" />
+    <Content Include="Image\Icon\预定48.png" />
+    <Content Include="Image\Icon\预定64.png" />
+    <Content Include="Image\load.gif" />
+    <Content Include="Image\MySpace.ico" />
+    <Content Include="Image\wx.ico" />
+    <Content Include="Image\xw.ico" />
+    <Content Include="IrisSkin2.dll" />
+    <Content Include="Base\kebue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Foot.EntityLayers\Foot.EntityLayers\Foot.EntityLayers.csproj">
+      <Project>{b81c8617-2279-4174-8aab-705cf69ec2c7}</Project>
+      <Name>Foot.EntityLayers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Foot.Proxy\Foot.Proxy\Foot.Proxy.csproj">
+      <Project>{95cfde8b-dcf9-494d-996b-7b8084e07da9}</Project>
+      <Name>Foot.Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WebApi\Kebue.Core.Util\Kebue.Core.Util.csproj">
+      <Project>{EE75649C-95F4-439C-8162-A1347DD5C465}</Project>
+      <Name>Kebue.Core.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
